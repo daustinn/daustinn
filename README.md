@@ -1,34 +1,13 @@
-<h2>Hey 👋, I'm <a href="https://daustinn.com" >Daustinn</a></h2>
-This is the place where I opensource stuff and break things :rofl:
+<h2>Hey 👋, I'm <a href="https://daustinn.com" >David Bendezú (Daustinn)</a></h2>
+
 
 - 🔭 &nbsp;I’m currently working on something cool :wink:
-- 🌱 &nbsp;I’m currently learning Rust, Nextjs
+- 🌱 &nbsp;I’m currently learning VueJS
 - 💬 &nbsp;Ask me about anything related to Javascript/Typescript or React/Nextjs
 - 👨‍💻 &nbsp;Read more about my projects at [daustinn.com](https://daustinn.com/#projects)
 <h2>✨&nbsp; About Me</h2>
-Software Engineer & Music Producer
-I build accessible products and digital experiences for the web. and additional to this I create music for your ear.
+Information Systems Engineering student with more than two years of experience in web application development. Management of technologies such as ReactJS, NextJS, ExpressJS and Tailwind CSS, with creative skills in UI/UX design using Figma.
 <br/>
 <br/>
-In addition to my background in web design and development, I am also a passionate electronic music producer. My verified <a href="https://univercel.com.pe/">Youtube channel</a> with over 800,000 views is proof of my dedication in this field.
-<h2>🚀 Some Tools I Use</h2>
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
+In addition to my experience in web design and development, I am also a passionate electronic music producer. My verified <a href="https://www.youtube.com/channel/UC84loLG1jFYYQ5eqcSJQGKw">Youtube channel</a> with more than 800,000
 
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25" />
-
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="25" height="25" />
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25" />
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25" />
-
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="heroku" width="25" height="25" />
-
-
-</p>
