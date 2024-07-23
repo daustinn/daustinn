@@ -2,7 +2,7 @@
 
 
 - 🔭 &nbsp;I’m currently working on something cool :wink:
-- 🌱 &nbsp;I’m currently learning VueJS
+- 🌱 &nbsp;I’m currently learning Svelte, Astro.
 - 💬 &nbsp;Ask me about anything related to Javascript/Typescript or React/Nextjs
 - 👨‍💻 &nbsp;Read more about my projects at [daustinn.com](https://daustinn.com/#projects)
 <h2>✨&nbsp; About Me</h2>
