@@ -10,4 +10,4 @@
 I like to create minimalist, scalable products. I've often developed software from scratch to end customers.
 
 ## Streak Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=daustinn&theme=git-dark&border_radius=5.8)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=daustinn&theme=javascript&border_radius=5.8&card_width=565&card_height=170)](https://git.io/streak-stats)
