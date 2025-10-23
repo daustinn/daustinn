@@ -1,5 +1,6 @@
 
-# Hey nice to meet you 🤝, <br/> here's <a href='https://daustinn.com'>Daustinn</a> Systems Engineer
+# Hey, nice to meet you 🤝. <br/> <a href='https://daustinn.com'>Daustinn</a> here, Systems Engineer.
+
 ## I have knowledge in
 🖥️ Front/Back/Desktop: [React.js](https://react.dev/), [Next.js](https://nextjs.org/), [Astro](https://astro.build/), [HTML5](https://html.spec.whatwg.org/), [CSS3](https://www.w3.org/Style/CSS/), [JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [TS](https://www.typescriptlang.org/), [TailwindCSS](https://tailwindcss.com/), [Node.js](https://nodejs.org/), [Bun](https://bun.sh/), [Laravel](https://laravel.com/), [Express.js](https://expressjs.com/), [ElysiaJS](https://elysiajs.com/), [Electron](https://www.electronjs.org/)</br>
 🗄️ Databases / Cloud: [MySQL](https://www.mysql.com/), [PostgreSQL](https://www.postgresql.org/), [SQLite](https://www.sqlite.org/), [MongoDB](https://www.mongodb.com/), [Firebase](https://firebase.google.com/), [Redis](https://redis.io/), [Supabase](https://supabase.com/), [AWS](https://aws.amazon.com/), [Google Cloud](https://cloud.google.com/), [Azure](https://azure.microsoft.com/)</br>
