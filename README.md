@@ -2,7 +2,7 @@
 class Developer {
   name = 'David Bendezú'
   nickname 'Daustinn'
-  role = 'Software Engineer'
+  role = 'Software Developer'
   stack = ['React.js', 'Node.js', 'TypeScript', 'PHP']
   currentFocus = 'Building scalable web apps'
   coffeeLevel = Infinity
@@ -22,7 +22,7 @@ export default new Developer()
 
 ```ts
 export default {
-  role: 'Software Engineer',
+  role: 'Software Developer',
   currentlyPlaying: 'lofi beats',
   status: 'Building cool stuff...',
 }
