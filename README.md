@@ -1,10 +1,14 @@
 ```ts
 class Developer {
   name = 'David Bendezú'
-  nickname 'Daustinn'
+  nickname = 'Daustinn'
   role = 'Software Developer'
+
+  education = 'Information Systems Engineering'
+
   stack = ['React.js', 'Node.js', 'TypeScript', 'PHP']
   currentFocus = 'Building scalable web apps'
+
   coffeeLevel = Infinity
   bugsExpected = false
 
